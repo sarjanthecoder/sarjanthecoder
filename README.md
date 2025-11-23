@@ -269,7 +269,7 @@ Smart farming solutions using AI and IoT
 
 ### 💭 Words I Code By
 
-*"The best way to predict the future is to build it."*
+*"The best way to predict the future is to build it.             g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"*
 
 ---
 

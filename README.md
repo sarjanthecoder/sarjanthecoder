@@ -279,6 +279,6 @@ Smart farming solutions using AI and IoT
 
 **⚡ Fun Fact:** I debug with console.log() and I'm not ashamed of it! 
 
-<sub>Made with ❤️ and lots of ☕</sub>
+<sub>Made with pota sarjan from morappur ☕</sub>
 
 </div>

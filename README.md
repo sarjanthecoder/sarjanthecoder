@@ -1,267 +1,111 @@
-
-
 <div align="center">
 
-  👋 Hey, I'm <a href="sarjan.site"Sarjan>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2cbf&height=120&section=header&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Applications;Chrome+Extensions+%7C+Real-time+Systems" alt="Typing SVG" />
+# Sarjan
+### AI Engineer · Full-Stack Developer · Dharmapuri, India
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarjan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sarjanthecoder?label=Followers&style=social" alt="followers" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+%26+Chrome+Extensions;Python+%7C+React+%7C+Flask+%7C+Firebase;Real-time+Systems+%26+Intelligent+Tools)](https://git.io/typing-svg)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=sarjanthecoder&color=00d4ff&style=flat-square&label=Profile+Views)](https://github.com/sarjanthecoder)
+[![Followers](https://img.shields.io/github/followers/sarjanthecoder?style=flat-square&color=7b2cbf&label=Followers)](https://github.com/sarjanthecoder?tab=followers)
+[![Repos](https://img.shields.io/badge/Repositories-73-00d4ff?style=flat-square)](https://github.com/sarjanthecoder?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## whoami
 
-```javascript
-const sarjan = {
-    role: "Full-Stack Developer",
-    focus: ["AI Applications", "Chrome Extensions", "Real-time Systems"],
-    passion: "Building tools that make life easier",
-    currently: "Exploring AI agents and real-time data processing",
-    motto: "Code with purpose, ship with confidence"
-};
+```python
+sarjan = {
+    "role"     : "AI Engineer & Full-Stack Developer",
+    "location" : "Dharmapuri, Tamil Nadu, India",
+    "building" : ["AI-powered apps", "Chrome Extensions", "Real-time systems"],
+    "ai_stack" : ["OpenAI", "Google Gemini", "Meta Llama"],
+    "website"  : "https://www.sarjanp.in",
+    "contact"  : "sarjan6325@gmail.com",
+}
 ```
 
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI / LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Meta%20Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [🛒 Chrome Price Tracker](https://github.com/sarjanthecoder/CHROME-extension-product-price-tracker-in-flipkart-amazon-meesho-) | Real-time price scraper for Amazon, Flipkart & Meesho via Chrome Extension | HTML, Flask |
+| [🤖 AI Chatbot](https://github.com/sarjanthecoder/ChatBot) | Conversational AI chatbot | CSS, JS |
+| [📚 E-Learning Platform](https://github.com/sarjanthecoder/E-Learning-Platform) | Online learning management system | Python |
+| [🍽️ AI Food Recipe Generator](https://github.com/sarjanthecoder/AI-food-reciepe-generator-) | AI-powered recipe suggestions | HTML, JS |
+| [📝 AI Document Editor](https://github.com/sarjanthecoder/AI-document-editor-) | Intelligent document editing tool | HTML, JS |
+| [💸 AI Expense Tracker](https://github.com/sarjanthecoder/AI---expense-tracker) | Smart personal finance tracker | Python |
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-### 💻 Tech Arsenal
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarjanthecoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarjanthecoder&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7b2cbf&currStreakLabel=00D9FF" />
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-        <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-        <br>Supabase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-</tr>
-</table>
-
-### 🤖 AI & ML Stack
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Llama](https://img.shields.io/badge/Meta%20Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarjanthecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
 ---
 
-## 🔥 Currently Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI-Powered Applications
-Building intelligent systems that understand context and deliver real value
-- Natural language processing tools
-- AI chatbots and assistants
-- Machine learning models
-- Automated content generation
-
-</td>
-<td width="50%">
-
-### 🔌 Chrome Extensions
-Creating productivity tools that live in your browser
-- Automation utilities
-- Data extraction tools
-- UI/UX enhancers
-- Privacy-focused extensions
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎙️ Real-time Transcription
-Live speech-to-text applications with instant processing
-- WebSocket integration
-- Multi-language support
-- Live captioning systems
-- Meeting transcription tools
-
-</td>
-<td width="50%">
-
-### 🛒 E-commerce Dashboards
-Analytics and management platforms for online stores
-- Sales tracking
-- Inventory management
-- Customer insights
-- Revenue analytics
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🌾 Agriculture Assistant Apps
-Smart farming solutions using AI and IoT
-- Crop disease detection
-- Weather forecasting integration
-- Farming recommendations
-- Resource optimization
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Highlights & Achievements
+## Achievements
 
 <div align="center">
 
-```
-🎯 50+ Projects Shipped  |  ⭐ 1000+ GitHub Stars  |  🤝 Open Source Contributor
-```
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🚀 Top Projects**
-- AI Writing Assistant
-- Smart Agriculture App
-- Real-time Collaboration Tool
-- Chrome Extension Suite
-
-</td>
-<td width="33%" align="center">
-
-**📦 Major Releases**
-- v2.0 Transcription Engine
-- E-commerce Analytics Pro
-- AI Chatbot Framework
-- Extension Builder Toolkit
-
-</td>
-<td width="33%" align="center">
-
-**🌟 Community Impact**
-- 500+ Active Users
-- 20+ Contributors
-- Featured on ProductHunt
-- Tech Blog Articles
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarjanthecoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarjanthecoder&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarjanthecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarjanthecoder&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌱 What I'm Learning Now
-
-<div align="center">
-
-```
-🔍 Currently Exploring: Advanced AI Agents & LangChain
-🎓 Deep Diving Into: WebAssembly & Edge Computing
-🚀 Experimenting With: Rust for Performance-Critical Apps
-🤖 Building: Multi-Agent AI Systems
-```
+[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/sarjanthecoder?achievement=pull-shark&tab=achievements)
+[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/sarjanthecoder?achievement=yolo&tab=achievements)
+[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/sarjanthecoder?achievement=quickdraw&tab=achievements)
 
 </div>
 
 ---
 
-## 🔮 Upcoming Projects
+## Connect
 
 <div align="center">
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🤖 **AI Code Review Bot** | Automated PR review assistant | 🚧 In Progress |
-| 🎨 **Design to Code AI** | Convert Figma designs to React | 💡 Planning |
-| 🌐 **Real-time Collab Platform** | WebRTC-based collaboration tool | 🚀 Beta |
-| 📱 **Mobile App Framework** | Cross-platform development toolkit | 💭 Ideation |
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarjan6325@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarjan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarjan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarjan.site)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sarjan)
+[![Portfolio](https://img.shields.io/badge/sarjanp.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sarjanp.in)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarjan6325@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarjanp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarjanthecoder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lonely_boy_official_2k)
 
 </div>
 
@@ -269,16 +113,8 @@ Smart farming solutions using AI and IoT
 
 <div align="center">
 
-### 💭 Words I Code By
+<sub>📍 Dharmapuri · ☕ debug with console.log, no regrets</sub>
 
-*"The best way to predict the future is to build it."*
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
-
-**⚡ Fun Fact:** I debug with console.log() and I'm not ashamed of it! 
-
-<sub>Made with sarjan from =DHARMAPURI☕</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,50:00d4ff,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
